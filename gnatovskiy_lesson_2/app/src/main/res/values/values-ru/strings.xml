@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Гнатовский Урок№1</string>
+    <string name="button_first_task">Первое задание</string>
+    <string name="text_pushkin">
+            Я сам в себе уверен,\n
+            Я умник из глупцов,\n
+            Я маленький Каверин,\n
+            Лицейский Молоствов
+        </string>
+</resources>

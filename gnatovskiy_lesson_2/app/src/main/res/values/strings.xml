@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gnatovskiy Lesson №2</string>
+    <string name="button_first_task">First task</string>
+    <string name="text_pushkin"> Sorry, there is nothing </string>
+    <string name="text_version">Боль и страдание</string>
+    <string name="text_button_1">Кнопка 1</string>
+    <!--    <string name=""-->
+</resources>

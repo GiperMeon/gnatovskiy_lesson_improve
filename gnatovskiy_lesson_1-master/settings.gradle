@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "gnatovskiyER_lesson_1"
